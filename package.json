@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hygor Zorak de Macedo",
+    "email": "hygorzorak@gmail.com"
+  },
+  "scripts": {
+    "start": "http-server dist/"
+  },
+  "dependencies": {
+    "http-server": "0.11.1"
+  }
+}
